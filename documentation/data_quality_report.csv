@@ -1,0 +1,5 @@
+table,raw_rows,clean_rows,missing_cells_before,missing_cells_after
+customers.csv,5000,5000,75,0
+products.csv,300,300,0,0
+orders.csv,12000,12000,84,0
+order_delivery_returns.csv,12000,12000,10958,0

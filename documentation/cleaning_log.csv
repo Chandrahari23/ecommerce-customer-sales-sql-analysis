@@ -1,0 +1,11 @@
+table,column,issue,action,reason
+customers,gender,Missing,Unknown,Avoid inventing a value
+customers,age,Missing,Median age,Keeps numeric analysis usable
+customers,text fields,Whitespace/case,Trimmed/standardized,Consistent grouping
+products,product_id,Duplicates,Keep first,ID should be unique
+orders,discount_pct,Missing,Median discount,Keeps discount analysis usable
+orders,payment_method,Missing,Unknown,Do not assume payment method
+orders,order_id,Duplicates,Keep first,ID should be unique
+order_delivery_returns,return_reason,Missing,Unknown,Preserves records
+order_delivery_returns,refund_amount,Missing,0,No recorded refund treated as zero
+all,dates/numerics,Type issues,Converted,Required for SQL analysis

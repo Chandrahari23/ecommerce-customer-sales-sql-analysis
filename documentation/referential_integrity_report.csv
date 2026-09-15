@@ -1,0 +1,4 @@
+relationship,orphan_records
+orders -> customers,0
+orders -> products,0
+returns -> orders,0
