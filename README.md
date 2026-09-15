@@ -1,4 +1,3 @@
-Business-focused e-commerce sales, customer, profitability, delivery and returns analysis using MySQL.
 # E-Commerce Customer & Sales Intelligence — SQL Analysis
 
 ## 📌 Project Overview
