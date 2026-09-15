@@ -516,7 +516,6 @@ ecommerce-customer-sales-sql-analysis/
 │   └── order_delivery_returns.csv
 │
 ├── documentation/
-│   ├── data_dictionary.csv
 │   ├── cleaning_log.csv
 │   ├── data_quality_report.csv
 │   └── referential_integrity_report.csv
