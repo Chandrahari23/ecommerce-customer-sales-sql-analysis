@@ -1,0 +1,301 @@
+product_id,product_name,category,subcategory,brand,unit_cost,list_price
+20001,UrbanCart Laptops 1,Electronics,Laptops,UrbanCart,929.98,1513.81
+20002,StyleHub Team Sports 2,Sports,Team Sports,StyleHub,1650.14,2315.11
+20003,Glow Audio 3,Electronics,Audio,Glow,342.74,512.24
+20004,Vertex Laptops 4,Electronics,Laptops,Vertex,235.82,341.36
+20005,Zenith Smartphones 5,Electronics,Smartphones,Zenith,232.68,421.95
+20006,Apex Makeup 6,Beauty,Makeup,Apex,310.18,577.75
+20007,Glow Storage 7,Home & Kitchen,Storage,Glow,4800.23,7404.46
+20008,Pulse Audio 8,Electronics,Audio,Pulse,300.51,582.36
+20009,Vertex Men's Wear 9,Fashion,Men's Wear,Vertex,539.54,750.31
+20010,Nova Fitness 10,Sports,Fitness,Nova,605.04,971.85
+20011,Nova Footwear 11,Fashion,Footwear,Nova,456.9,870.44
+20012,Glow Audio 12,Electronics,Audio,Glow,4034.5,6147.29
+20013,Apex Accessories 13,Electronics,Accessories,Apex,193.45,253.92
+20014,UrbanCart Makeup 14,Beauty,Makeup,UrbanCart,4092.31,8577.62
+20015,Nova Men's Wear 15,Fashion,Men's Wear,Nova,664.43,1366.9
+20016,StyleHub Sportswear 16,Sports,Sportswear,StyleHub,2076.84,2850.97
+20017,Nova Footwear 17,Fashion,Footwear,Nova,594.19,1222.2
+20018,Glow Accessories 18,Electronics,Accessories,Glow,1157.22,2499.43
+20019,StyleHub Storage 19,Home & Kitchen,Storage,StyleHub,289.72,512.94
+20020,Pulse Men's Wear 20,Fashion,Men's Wear,Pulse,214.1,354.46
+20021,Zenith Appliances 21,Home & Kitchen,Appliances,Zenith,7897.79,12380.6
+20022,StyleHub Outdoor 22,Sports,Outdoor,StyleHub,4146.33,6715.69
+20023,StyleHub Appliances 23,Home & Kitchen,Appliances,StyleHub,349.25,464.83
+20024,StyleHub Women's Wear 24,Fashion,Women's Wear,StyleHub,1609.23,2286.94
+20025,Apex Smartphones 25,Electronics,Smartphones,Apex,2635.51,3402.16
+20026,StyleHub Smartphones 26,Electronics,Smartphones,StyleHub,1320.02,2173.83
+20027,Nova Women's Wear 27,Fashion,Women's Wear,Nova,475.36,994.84
+20028,Zenith Women's Wear 28,Fashion,Women's Wear,Zenith,5679.8,7421.42
+20029,Pulse Laptops 29,Electronics,Laptops,Pulse,1005.74,2228.25
+20030,Vertex Storage 30,Home & Kitchen,Storage,Vertex,367.59,520.59
+20031,Pulse Women's Wear 31,Fashion,Women's Wear,Pulse,389.96,847.15
+20032,Pulse Personal Care 32,Beauty,Personal Care,Pulse,321.22,458.1
+20033,Pulse Storage 33,Home & Kitchen,Storage,Pulse,827.45,1089.44
+20034,FitCore Women's Wear 34,Fashion,Women's Wear,FitCore,612.11,1058.18
+20035,Glow Laptops 35,Electronics,Laptops,Glow,1254.03,2368.24
+20036,Glow Women's Wear 36,Fashion,Women's Wear,Glow,1226.21,2337.09
+20037,Apex Men's Wear 37,Fashion,Men's Wear,Apex,1042.1,1702.04
+20038,UrbanCart Smartphones 38,Electronics,Smartphones,UrbanCart,841.26,1661.27
+20039,Glow Women's Wear 39,Fashion,Women's Wear,Glow,2062.38,3068.72
+20040,UrbanCart Furniture 40,Home & Kitchen,Furniture,UrbanCart,559.72,979.29
+20041,StyleHub Laptops 41,Electronics,Laptops,StyleHub,83.49,150.0
+20042,Pulse Furniture 42,Home & Kitchen,Furniture,Pulse,4831.07,8022.04
+20043,Pulse Appliances 43,Home & Kitchen,Appliances,Pulse,332.57,528.69
+20044,Vertex Skincare 44,Beauty,Skincare,Vertex,1114.88,2243.96
+20045,FitCore Audio 45,Electronics,Audio,FitCore,603.7,883.17
+20046,HomePro Skincare 46,Beauty,Skincare,HomePro,3130.83,4223.02
+20047,Pulse Laptops 47,Electronics,Laptops,Pulse,273.58,505.0
+20048,Pulse Audio 48,Electronics,Audio,Pulse,322.5,632.94
+20049,Glow Furniture 49,Home & Kitchen,Furniture,Glow,537.42,766.69
+20050,FitCore Storage 50,Home & Kitchen,Storage,FitCore,1009.0,1976.22
+20051,FitCore Fitness 51,Sports,Fitness,FitCore,680.01,1466.76
+20052,UrbanCart Footwear 52,Fashion,Footwear,UrbanCart,1305.91,1995.73
+20053,HomePro Furniture 53,Home & Kitchen,Furniture,HomePro,711.67,1345.01
+20054,Glow Team Sports 54,Sports,Team Sports,Glow,1406.78,2776.38
+20055,Nova Appliances 55,Home & Kitchen,Appliances,Nova,2181.4,2818.6
+20056,Zenith Audio 56,Electronics,Audio,Zenith,2562.02,4689.63
+20057,UrbanCart Furniture 57,Home & Kitchen,Furniture,UrbanCart,1223.32,1635.16
+20058,Glow Outdoor 58,Sports,Outdoor,Glow,828.42,1628.14
+20059,FitCore Women's Wear 59,Fashion,Women's Wear,FitCore,4239.69,5886.31
+20060,Vertex Accessories 60,Fashion,Accessories,Vertex,2170.45,3525.36
+20061,Zenith Footwear 61,Fashion,Footwear,Zenith,910.93,1913.98
+20062,Apex Men's Wear 62,Fashion,Men's Wear,Apex,236.75,342.08
+20063,Zenith Personal Care 63,Beauty,Personal Care,Zenith,196.29,263.69
+20064,UrbanCart Accessories 64,Electronics,Accessories,UrbanCart,1049.35,2082.89
+20065,Pulse Accessories 65,Electronics,Accessories,Pulse,1490.31,2161.61
+20066,FitCore Furniture 66,Home & Kitchen,Furniture,FitCore,373.72,626.14
+20067,Vertex Personal Care 67,Beauty,Personal Care,Vertex,1153.05,1650.09
+20068,UrbanCart Men's Wear 68,Fashion,Men's Wear,UrbanCart,361.69,527.55
+20069,Vertex Women's Wear 69,Fashion,Women's Wear,Vertex,921.36,2008.29
+20070,FitCore Laptops 70,Electronics,Laptops,FitCore,1046.41,2055.91
+20071,Zenith Audio 71,Electronics,Audio,Zenith,1237.49,2043.96
+20072,Nova Skincare 72,Beauty,Skincare,Nova,1230.4,1623.04
+20073,UrbanCart Smartphones 73,Electronics,Smartphones,UrbanCart,518.37,920.91
+20074,Pulse Men's Wear 74,Fashion,Men's Wear,Pulse,652.16,991.83
+20075,Glow Audio 75,Electronics,Audio,Glow,1546.24,3405.9
+20076,HomePro Men's Wear 76,Fashion,Men's Wear,HomePro,1193.55,1743.24
+20077,StyleHub Women's Wear 77,Fashion,Women's Wear,StyleHub,1208.4,1861.91
+20078,Apex Skincare 78,Beauty,Skincare,Apex,889.94,1297.14
+20079,FitCore Appliances 79,Home & Kitchen,Appliances,FitCore,1614.45,2156.8
+20080,UrbanCart Footwear 80,Fashion,Footwear,UrbanCart,1417.5,2844.42
+20081,Zenith Storage 81,Home & Kitchen,Storage,Zenith,365.73,681.92
+20082,Zenith Sportswear 82,Sports,Sportswear,Zenith,1592.88,2045.81
+20083,Vertex Footwear 83,Fashion,Footwear,Vertex,491.08,979.07
+20084,Glow Audio 84,Electronics,Audio,Glow,1094.77,1591.68
+20085,Vertex Footwear 85,Fashion,Footwear,Vertex,1754.04,2544.76
+20086,Apex Footwear 86,Fashion,Footwear,Apex,219.44,324.91
+20087,FitCore Skincare 87,Beauty,Skincare,FitCore,237.55,452.43
+20088,Pulse Smartphones 88,Electronics,Smartphones,Pulse,345.37,662.9
+20089,UrbanCart Accessories 89,Electronics,Accessories,UrbanCart,416.6,621.89
+20090,Vertex Team Sports 90,Sports,Team Sports,Vertex,530.32,1036.87
+20091,Apex Team Sports 91,Sports,Team Sports,Apex,3678.37,5503.94
+20092,StyleHub Appliances 92,Home & Kitchen,Appliances,StyleHub,2122.88,3465.73
+20093,Apex Audio 93,Electronics,Audio,Apex,411.02,711.62
+20094,Pulse Cookware 94,Home & Kitchen,Cookware,Pulse,1440.22,2622.99
+20095,Zenith Smartphones 95,Electronics,Smartphones,Zenith,880.32,1154.22
+20096,Zenith Cookware 96,Home & Kitchen,Cookware,Zenith,1009.95,1635.09
+20097,UrbanCart Appliances 97,Home & Kitchen,Appliances,UrbanCart,315.29,496.36
+20098,StyleHub Skincare 98,Beauty,Skincare,StyleHub,279.02,365.57
+20099,Apex Smartphones 99,Electronics,Smartphones,Apex,1544.4,2319.69
+20100,Zenith Accessories 100,Fashion,Accessories,Zenith,946.89,1236.0
+20101,Vertex Accessories 101,Fashion,Accessories,Vertex,931.7,1920.64
+20102,FitCore Men's Wear 102,Fashion,Men's Wear,FitCore,3673.51,5036.41
+20103,Zenith Men's Wear 103,Fashion,Men's Wear,Zenith,542.71,967.93
+20104,Apex Men's Wear 104,Fashion,Men's Wear,Apex,700.2,975.94
+20105,Pulse Skincare 105,Beauty,Skincare,Pulse,4317.31,5895.07
+20106,FitCore Makeup 106,Beauty,Makeup,FitCore,657.49,1218.49
+20107,Nova Audio 107,Electronics,Audio,Nova,340.64,582.37
+20108,Pulse Audio 108,Electronics,Audio,Pulse,1604.43,2326.66
+20109,Zenith Personal Care 109,Beauty,Personal Care,Zenith,467.68,968.91
+20110,Pulse Women's Wear 110,Fashion,Women's Wear,Pulse,400.24,572.32
+20111,HomePro Fitness 111,Sports,Fitness,HomePro,632.82,1300.88
+20112,HomePro Furniture 112,Home & Kitchen,Furniture,HomePro,1898.41,2525.25
+20113,HomePro Audio 113,Electronics,Audio,HomePro,228.79,422.76
+20114,Nova Furniture 114,Home & Kitchen,Furniture,Nova,264.94,414.01
+20115,FitCore Appliances 115,Home & Kitchen,Appliances,FitCore,545.63,1116.58
+20116,HomePro Appliances 116,Home & Kitchen,Appliances,HomePro,240.3,445.88
+20117,Zenith Haircare 117,Beauty,Haircare,Zenith,221.98,380.55
+20118,Zenith Accessories 118,Fashion,Accessories,Zenith,736.91,1206.62
+20119,UrbanCart Laptops 119,Electronics,Laptops,UrbanCart,1461.3,3247.17
+20120,Vertex Men's Wear 120,Fashion,Men's Wear,Vertex,1812.71,2438.88
+20121,Glow Women's Wear 121,Fashion,Women's Wear,Glow,493.21,1089.89
+20122,Apex Footwear 122,Fashion,Footwear,Apex,2684.59,3806.22
+20123,Nova Women's Wear 123,Fashion,Women's Wear,Nova,3461.63,5718.95
+20124,Pulse Footwear 124,Fashion,Footwear,Pulse,1163.02,1867.16
+20125,Vertex Cookware 125,Home & Kitchen,Cookware,Vertex,447.7,863.08
+20126,Pulse Footwear 126,Fashion,Footwear,Pulse,3185.33,4897.26
+20127,Pulse Women's Wear 127,Fashion,Women's Wear,Pulse,2952.53,4706.83
+20128,Glow Accessories 128,Electronics,Accessories,Glow,760.02,1507.39
+20129,StyleHub Cookware 129,Home & Kitchen,Cookware,StyleHub,1906.6,3607.02
+20130,Glow Appliances 130,Home & Kitchen,Appliances,Glow,280.42,594.02
+20131,Nova Smartphones 131,Electronics,Smartphones,Nova,88.1,186.71
+20132,StyleHub Makeup 132,Beauty,Makeup,StyleHub,227.59,500.7
+20133,HomePro Appliances 133,Home & Kitchen,Appliances,HomePro,755.48,1445.18
+20134,Nova Audio 134,Electronics,Audio,Nova,756.89,1122.5
+20135,FitCore Storage 135,Home & Kitchen,Storage,FitCore,1580.98,2851.94
+20136,Zenith Smartphones 136,Electronics,Smartphones,Zenith,177.45,315.13
+20137,HomePro Men's Wear 137,Fashion,Men's Wear,HomePro,158.28,320.72
+20138,Apex Footwear 138,Fashion,Footwear,Apex,1524.95,2383.08
+20139,StyleHub Accessories 139,Electronics,Accessories,StyleHub,185.51,329.55
+20140,Zenith Sportswear 140,Sports,Sportswear,Zenith,633.12,940.49
+20141,UrbanCart Cookware 141,Home & Kitchen,Cookware,UrbanCart,852.25,1226.82
+20142,UrbanCart Footwear 142,Fashion,Footwear,UrbanCart,429.64,668.23
+20143,StyleHub Makeup 143,Beauty,Makeup,StyleHub,1092.26,2018.58
+20144,StyleHub Storage 144,Home & Kitchen,Storage,StyleHub,115.92,187.62
+20145,Nova Team Sports 145,Sports,Team Sports,Nova,3327.03,6240.48
+20146,Vertex Skincare 146,Beauty,Skincare,Vertex,666.84,891.54
+20147,FitCore Fitness 147,Sports,Fitness,FitCore,723.64,1029.5
+20148,FitCore Appliances 148,Home & Kitchen,Appliances,FitCore,8303.26,13552.09
+20149,UrbanCart Footwear 149,Fashion,Footwear,UrbanCart,271.23,352.89
+20150,StyleHub Haircare 150,Beauty,Haircare,StyleHub,295.34,468.48
+20151,StyleHub Outdoor 151,Sports,Outdoor,StyleHub,2371.96,4247.66
+20152,Zenith Sportswear 152,Sports,Sportswear,Zenith,142.37,295.67
+20153,Zenith Makeup 153,Beauty,Makeup,Zenith,1179.46,1873.83
+20154,Pulse Accessories 154,Fashion,Accessories,Pulse,510.35,695.36
+20155,Glow Audio 155,Electronics,Audio,Glow,206.24,280.21
+20156,HomePro Cookware 156,Home & Kitchen,Cookware,HomePro,1252.26,1928.01
+20157,Nova Smartphones 157,Electronics,Smartphones,Nova,1147.91,1979.72
+20158,FitCore Audio 158,Electronics,Audio,FitCore,798.51,1201.5
+20159,Apex Cookware 159,Home & Kitchen,Cookware,Apex,5419.35,7725.31
+20160,Zenith Laptops 160,Electronics,Laptops,Zenith,351.08,599.28
+20161,HomePro Laptops 161,Electronics,Laptops,HomePro,1589.28,2617.55
+20162,Pulse Fitness 162,Sports,Fitness,Pulse,1086.87,1611.12
+20163,Pulse Cookware 163,Home & Kitchen,Cookware,Pulse,2126.83,2876.84
+20164,Nova Accessories 164,Electronics,Accessories,Nova,542.05,762.34
+20165,UrbanCart Women's Wear 165,Fashion,Women's Wear,UrbanCart,157.85,345.11
+20166,Pulse Haircare 166,Beauty,Haircare,Pulse,318.95,649.54
+20167,UrbanCart Furniture 167,Home & Kitchen,Furniture,UrbanCart,828.74,1133.06
+20168,Nova Audio 168,Electronics,Audio,Nova,1606.03,2214.72
+20169,Glow Audio 169,Electronics,Audio,Glow,704.85,1218.82
+20170,Apex Cookware 170,Home & Kitchen,Cookware,Apex,936.12,1456.29
+20171,Nova Laptops 171,Electronics,Laptops,Nova,4247.01,5670.78
+20172,Glow Accessories 172,Fashion,Accessories,Glow,881.55,1174.12
+20173,StyleHub Skincare 173,Beauty,Skincare,StyleHub,526.48,743.18
+20174,StyleHub Women's Wear 174,Fashion,Women's Wear,StyleHub,925.96,1783.56
+20175,StyleHub Appliances 175,Home & Kitchen,Appliances,StyleHub,177.01,256.17
+20176,HomePro Cookware 176,Home & Kitchen,Cookware,HomePro,123.59,255.68
+20177,HomePro Appliances 177,Home & Kitchen,Appliances,HomePro,792.4,1063.62
+20178,UrbanCart Furniture 178,Home & Kitchen,Furniture,UrbanCart,258.72,518.25
+20179,FitCore Women's Wear 179,Fashion,Women's Wear,FitCore,464.08,694.13
+20180,HomePro Sportswear 180,Sports,Sportswear,HomePro,1812.95,2783.25
+20181,Pulse Smartphones 181,Electronics,Smartphones,Pulse,1361.16,1926.96
+20182,Zenith Team Sports 182,Sports,Team Sports,Zenith,707.66,1119.68
+20183,StyleHub Sportswear 183,Sports,Sportswear,StyleHub,607.28,1293.03
+20184,Pulse Audio 184,Electronics,Audio,Pulse,559.28,818.94
+20185,Vertex Laptops 185,Electronics,Laptops,Vertex,1485.64,2577.26
+20186,Zenith Storage 186,Home & Kitchen,Storage,Zenith,1360.8,2448.83
+20187,UrbanCart Men's Wear 187,Fashion,Men's Wear,UrbanCart,2275.44,2927.54
+20188,HomePro Smartphones 188,Electronics,Smartphones,HomePro,1811.2,2808.8
+20189,UrbanCart Accessories 189,Electronics,Accessories,UrbanCart,862.39,1259.81
+20190,HomePro Fitness 190,Sports,Fitness,HomePro,399.25,640.14
+20191,HomePro Audio 191,Electronics,Audio,HomePro,726.8,1032.26
+20192,Nova Storage 192,Home & Kitchen,Storage,Nova,930.54,1332.8
+20193,Glow Skincare 193,Beauty,Skincare,Glow,436.28,654.23
+20194,Glow Team Sports 194,Sports,Team Sports,Glow,4054.34,5202.84
+20195,Apex Appliances 195,Home & Kitchen,Appliances,Apex,3144.81,5226.26
+20196,Apex Audio 196,Electronics,Audio,Apex,735.7,1077.09
+20197,Vertex Women's Wear 197,Fashion,Women's Wear,Vertex,2164.55,3034.7
+20198,Apex Makeup 198,Beauty,Makeup,Apex,1140.39,1986.43
+20199,FitCore Fitness 199,Sports,Fitness,FitCore,461.15,767.48
+20200,Pulse Audio 200,Electronics,Audio,Pulse,1338.49,1738.69
+20201,Vertex Men's Wear 201,Fashion,Men's Wear,Vertex,275.38,597.79
+20202,Vertex Storage 202,Home & Kitchen,Storage,Vertex,304.72,543.52
+20203,StyleHub Sportswear 203,Sports,Sportswear,StyleHub,1125.22,1843.26
+20204,Glow Cookware 204,Home & Kitchen,Cookware,Glow,839.3,1863.11
+20205,Apex Furniture 205,Home & Kitchen,Furniture,Apex,10124.16,13558.32
+20206,FitCore Laptops 206,Electronics,Laptops,FitCore,568.04,1043.31
+20207,HomePro Storage 207,Home & Kitchen,Storage,HomePro,398.86,745.47
+20208,Vertex Furniture 208,Home & Kitchen,Furniture,Vertex,1984.32,2753.3
+20209,Nova Audio 209,Electronics,Audio,Nova,635.58,1173.24
+20210,Zenith Cookware 210,Home & Kitchen,Cookware,Zenith,446.87,669.96
+20211,Pulse Cookware 211,Home & Kitchen,Cookware,Pulse,510.74,708.28
+20212,UrbanCart Makeup 212,Beauty,Makeup,UrbanCart,726.43,1020.96
+20213,Nova Audio 213,Electronics,Audio,Nova,2194.77,3099.77
+20214,UrbanCart Makeup 214,Beauty,Makeup,UrbanCart,848.11,1769.66
+20215,StyleHub Women's Wear 215,Fashion,Women's Wear,StyleHub,270.0,566.81
+20216,Glow Smartphones 216,Electronics,Smartphones,Glow,3448.61,6256.17
+20217,Vertex Accessories 217,Electronics,Accessories,Vertex,244.93,530.3
+20218,Glow Personal Care 218,Beauty,Personal Care,Glow,380.16,618.0
+20219,UrbanCart Laptops 219,Electronics,Laptops,UrbanCart,1990.52,3430.29
+20220,FitCore Audio 220,Electronics,Audio,FitCore,2927.46,4618.76
+20221,StyleHub Storage 221,Home & Kitchen,Storage,StyleHub,904.96,1649.58
+20222,Zenith Storage 222,Home & Kitchen,Storage,Zenith,229.23,375.6
+20223,Glow Storage 223,Home & Kitchen,Storage,Glow,733.85,1309.35
+20224,HomePro Sportswear 224,Sports,Sportswear,HomePro,180.37,350.63
+20225,Apex Team Sports 225,Sports,Team Sports,Apex,7460.01,11230.04
+20226,Vertex Haircare 226,Beauty,Haircare,Vertex,1044.59,1553.91
+20227,Apex Furniture 227,Home & Kitchen,Furniture,Apex,1786.42,2468.64
+20228,Glow Team Sports 228,Sports,Team Sports,Glow,635.19,859.91
+20229,Apex Accessories 229,Fashion,Accessories,Apex,4159.48,6094.72
+20230,FitCore Personal Care 230,Beauty,Personal Care,FitCore,516.76,763.45
+20231,Vertex Furniture 231,Home & Kitchen,Furniture,Vertex,259.65,553.98
+20232,StyleHub Audio 232,Electronics,Audio,StyleHub,767.69,1578.88
+20233,Zenith Team Sports 233,Sports,Team Sports,Zenith,1902.74,2649.52
+20234,Zenith Appliances 234,Home & Kitchen,Appliances,Zenith,4294.58,8151.05
+20235,StyleHub Sportswear 235,Sports,Sportswear,StyleHub,2910.68,5130.43
+20236,HomePro Laptops 236,Electronics,Laptops,HomePro,1751.79,3518.02
+20237,Pulse Outdoor 237,Sports,Outdoor,Pulse,333.17,647.68
+20238,UrbanCart Laptops 238,Electronics,Laptops,UrbanCart,448.57,635.47
+20239,Vertex Appliances 239,Home & Kitchen,Appliances,Vertex,292.12,544.58
+20240,Nova Men's Wear 240,Fashion,Men's Wear,Nova,626.8,1047.84
+20241,HomePro Women's Wear 241,Fashion,Women's Wear,HomePro,107.24,214.46
+20242,FitCore Women's Wear 242,Fashion,Women's Wear,FitCore,2762.92,4101.01
+20243,Pulse Cookware 243,Home & Kitchen,Cookware,Pulse,329.43,477.21
+20244,Pulse Audio 244,Electronics,Audio,Pulse,243.12,427.0
+20245,HomePro Storage 245,Home & Kitchen,Storage,HomePro,590.45,832.83
+20246,Pulse Appliances 246,Home & Kitchen,Appliances,Pulse,189.71,358.5
+20247,Glow Men's Wear 247,Fashion,Men's Wear,Glow,1453.62,2142.95
+20248,Zenith Audio 248,Electronics,Audio,Zenith,347.54,503.03
+20249,Nova Appliances 249,Home & Kitchen,Appliances,Nova,1450.39,1884.46
+20250,Vertex Outdoor 250,Sports,Outdoor,Vertex,1452.85,2758.58
+20251,FitCore Smartphones 251,Electronics,Smartphones,FitCore,351.99,731.91
+20252,Zenith Footwear 252,Fashion,Footwear,Zenith,337.73,629.15
+20253,Glow Accessories 253,Electronics,Accessories,Glow,285.97,582.96
+20254,Zenith Laptops 254,Electronics,Laptops,Zenith,229.26,453.08
+20255,Pulse Men's Wear 255,Fashion,Men's Wear,Pulse,460.54,822.01
+20256,Vertex Cookware 256,Home & Kitchen,Cookware,Vertex,747.95,1275.02
+20257,Apex Accessories 257,Fashion,Accessories,Apex,258.61,345.63
+20258,FitCore Skincare 258,Beauty,Skincare,FitCore,346.48,673.36
+20259,Nova Haircare 259,Beauty,Haircare,Nova,1065.92,1383.09
+20260,Vertex Team Sports 260,Sports,Team Sports,Vertex,888.11,1238.04
+20261,Vertex Footwear 261,Fashion,Footwear,Vertex,111.13,150.0
+20262,StyleHub Storage 262,Home & Kitchen,Storage,StyleHub,1606.12,2122.49
+20263,Pulse Storage 263,Home & Kitchen,Storage,Pulse,2555.4,3658.04
+20264,FitCore Accessories 264,Fashion,Accessories,FitCore,509.09,716.73
+20265,FitCore Men's Wear 265,Fashion,Men's Wear,FitCore,149.7,251.81
+20266,UrbanCart Accessories 266,Electronics,Accessories,UrbanCart,373.0,603.13
+20267,Pulse Smartphones 267,Electronics,Smartphones,Pulse,445.03,587.33
+20268,HomePro Cookware 268,Home & Kitchen,Cookware,HomePro,2030.95,3533.16
+20269,UrbanCart Audio 269,Electronics,Audio,UrbanCart,208.01,448.45
+20270,HomePro Laptops 270,Electronics,Laptops,HomePro,610.09,869.44
+20271,FitCore Footwear 271,Fashion,Footwear,FitCore,3473.3,5434.32
+20272,StyleHub Accessories 272,Electronics,Accessories,StyleHub,997.18,1387.08
+20273,Glow Women's Wear 273,Fashion,Women's Wear,Glow,679.62,1430.98
+20274,FitCore Haircare 274,Beauty,Haircare,FitCore,717.59,1095.54
+20275,Zenith Accessories 275,Electronics,Accessories,Zenith,1538.25,2892.84
+20276,StyleHub Laptops 276,Electronics,Laptops,StyleHub,1291.39,1726.28
+20277,FitCore Smartphones 277,Electronics,Smartphones,FitCore,3094.17,6363.07
+20278,Glow Furniture 278,Home & Kitchen,Furniture,Glow,5111.83,7019.69
+20279,UrbanCart Accessories 279,Fashion,Accessories,UrbanCart,762.67,1591.48
+20280,Glow Appliances 280,Home & Kitchen,Appliances,Glow,531.82,1160.46
+20281,Apex Appliances 281,Home & Kitchen,Appliances,Apex,733.52,1390.38
+20282,Nova Storage 282,Home & Kitchen,Storage,Nova,403.55,720.75
+20283,Nova Haircare 283,Beauty,Haircare,Nova,888.92,1353.5
+20284,Glow Audio 284,Electronics,Audio,Glow,161.72,327.73
+20285,Vertex Skincare 285,Beauty,Skincare,Vertex,375.73,632.2
+20286,Nova Women's Wear 286,Fashion,Women's Wear,Nova,1260.16,2435.52
+20287,Pulse Accessories 287,Electronics,Accessories,Pulse,1426.09,1947.55
+20288,Vertex Accessories 288,Fashion,Accessories,Vertex,497.43,1070.11
+20289,FitCore Audio 289,Electronics,Audio,FitCore,992.76,1749.49
+20290,Vertex Storage 290,Home & Kitchen,Storage,Vertex,3064.39,4654.63
+20291,Zenith Audio 291,Electronics,Audio,Zenith,637.21,848.12
+20292,Nova Accessories 292,Electronics,Accessories,Nova,242.86,329.77
+20293,Vertex Storage 293,Home & Kitchen,Storage,Vertex,1573.01,2110.25
+20294,HomePro Men's Wear 294,Fashion,Men's Wear,HomePro,915.31,1944.4
+20295,Pulse Outdoor 295,Sports,Outdoor,Pulse,1729.64,2377.5
+20296,Vertex Men's Wear 296,Fashion,Men's Wear,Vertex,288.99,408.54
+20297,Glow Furniture 297,Home & Kitchen,Furniture,Glow,232.58,311.02
+20298,StyleHub Fitness 298,Sports,Fitness,StyleHub,842.02,1523.13
+20299,Nova Storage 299,Home & Kitchen,Storage,Nova,1073.87,1430.14
+20300,StyleHub Accessories 300,Electronics,Accessories,StyleHub,507.16,870.11
